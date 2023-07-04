@@ -1,6 +1,9 @@
 ## News App
 
-Creating this app to work with [Hacker News API](https://github.com/HackerNews/API)
+![Hacker News](https://raw.githubusercontent.com/n1ghtx0w1/news-app/main/src/assets/github/hacker-news.png)
+
+Creating this app to work with news API's including: 
+- [Hacker News API](https://github.com/HackerNews/API)
 
 # Getting Started with Create React App
 
